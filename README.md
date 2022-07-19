@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @allostimzy
-- 👀 I’m a Frontend Web Developer, currently learning Backend Technologies
+- 👀 I’m a Frontend Web Developer and Graphic Designer
 - 🌱 I’m currently learning React.Js, Node.Js and Javascript
 - 💞️ I’m looking to collaborate on Javascript Projects...
 - 📫 How to reach me timothyomamegbe@gmail.com
